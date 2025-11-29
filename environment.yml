@@ -1,0 +1,7 @@
+name: dsci522-dockerfile-practice
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=1.26.4
+  - pandas=2.2.2
